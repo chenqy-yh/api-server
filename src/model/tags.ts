@@ -1,0 +1,23 @@
+
+export const tagList: Tag[] = [
+  { id: '1', title_zh: '模式识别', title_en: 'Pattern Recognition' },
+  { id: '2', title_zh: '计算理论', title_en: 'Computational Theory' },
+  { id: '3', title_zh: '最优化', title_en: 'Optimization' },
+  { id: '4', title_zh: '离散数学', title_en: 'Discrete Mathematics' },
+  { id: '5', title_zh: '数据挖掘', title_en: 'Data Mining' },
+  { id: '6', title_zh: '随机过程', title_en: 'Stochastic Processes' },
+  { id: '7', title_zh: '图论', title_en: 'Graph Theory' },
+  { id: '8', title_zh: '异常检测', title_en: 'Anomaly Detection' },
+  { id: '9', title_zh: '面向对象设计', title_en: 'Object-oriented Design' },
+  { id: '10', title_zh: '编译原理', title_en: 'Compiler Theory' },
+  { id: '11', title_zh: '软件测试', title_en: 'Software Testing' },
+  { id: '12', title_zh: '数据库系统', title_en: 'Database Systems' },
+  { id: '13', title_zh: '马尔可夫链', title_en: 'Markov Chains' },
+  { id: '14', title_zh: '小波分析', title_en: 'Wavelet Analysis' },
+  { id: '15', title_zh: '最小二乘法', title_en: 'Least Squares Method' },
+  { id: '16', title_zh: '统计回归', title_en: 'Statistical Regression' },
+  { id: '17', title_zh: '波动现象', title_en: 'Wave Phenomena' },
+  { id: '18', title_zh: '场论', title_en: 'Field Theory' },
+  { id: '19', title_zh: '相对论', title_en: 'Relativity' },
+  { id: '20', title_zh: '量子力学', title_en: 'Quantum Mechanics' },
+]
